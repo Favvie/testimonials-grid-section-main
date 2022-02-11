@@ -46,7 +46,7 @@ body {
 	position: relative;
 	z-index: 100;
 
-	h3 {
+	p {
 		margin-top: -20px;
 	}
 	@media screen and (min-width: 1024px) {
@@ -103,7 +103,7 @@ body {
 	@media screen and (min-width: 768px) {
 		padding: 30px;
 	}
-	h3 {
+	p {
 		font-size: 1.5em;
 		line-height: 1.2;
 		padding: 15px 0;

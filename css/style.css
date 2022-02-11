@@ -57,7 +57,7 @@ body {
   z-index: 100;
 }
 
-.dan h3 {
+.dan p {
   margin-top: -20px;
 }
 
@@ -131,7 +131,7 @@ body {
   }
 }
 
-.testimony h3 {
+.testimony p {
   font-size: 1.5em;
   line-height: 1.2;
   padding: 15px 0;
